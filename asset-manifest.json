@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GifosAppNv/static/css/main.f7a22f2a.chunk.css",
+    "main.js": "/GifosAppNv/static/js/main.634c9d0e.chunk.js",
+    "main.js.map": "/GifosAppNv/static/js/main.634c9d0e.chunk.js.map",
+    "runtime-main.js": "/GifosAppNv/static/js/runtime-main.64d6f36a.js",
+    "runtime-main.js.map": "/GifosAppNv/static/js/runtime-main.64d6f36a.js.map",
+    "static/css/2.598ff574.chunk.css": "/GifosAppNv/static/css/2.598ff574.chunk.css",
+    "static/js/2.995376d1.chunk.js": "/GifosAppNv/static/js/2.995376d1.chunk.js",
+    "static/js/2.995376d1.chunk.js.map": "/GifosAppNv/static/js/2.995376d1.chunk.js.map",
+    "index.html": "/GifosAppNv/index.html",
+    "static/css/2.598ff574.chunk.css.map": "/GifosAppNv/static/css/2.598ff574.chunk.css.map",
+    "static/css/main.f7a22f2a.chunk.css.map": "/GifosAppNv/static/css/main.f7a22f2a.chunk.css.map",
+    "static/js/2.995376d1.chunk.js.LICENSE.txt": "/GifosAppNv/static/js/2.995376d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64d6f36a.js",
+    "static/css/2.598ff574.chunk.css",
+    "static/js/2.995376d1.chunk.js",
+    "static/css/main.f7a22f2a.chunk.css",
+    "static/js/main.634c9d0e.chunk.js"
+  ]
+}
